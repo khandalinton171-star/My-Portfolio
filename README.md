@@ -30,4 +30,4 @@ This will run the code below
 ```javascript
 console.log("Hello World")
 ```
-The AI model was provided by
+The AI model was provided by [Dalinton]_(https://github.com/khandalinton171-star)
