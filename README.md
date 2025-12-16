@@ -21,7 +21,7 @@ _**ordered list**
 > I am 18 years old
 >> I love football  
 The traditional 'Hello world' code
-To run my project follow the following steps
-'''cmd
+To run my project follow the following steps  
+```cmd
 git init --In the folder to chose to work on
 git clone <url> --To clone my repo
