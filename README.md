@@ -19,5 +19,9 @@ _**ordered list**
 2. Apples
 3. Water melon
 > I am 18 years old
->> I love football
+>> I love football  
 The traditional 'Hello world' code
+To run my project follow the following steps
+'''cmd
+git init --In the folder to chose to work on
+git clone <url> --To clone my repo
